@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+body {
+    background-color:black;
+    height: 100vh;
+}
+
+
+
+.nav {
+    color: white;
+    display: flex;
+    margin-right: 70px;
+    padding-left: 800px;
+
+}    
+
+
+
+.navlink {
+    display: flex;
+    margin-right: 60px;
+    color: white;
+    
+}
+
+
+.first {
+    margin-top: 10px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+    border-style: solid;
+    border-color: white;
+}
+
+
+
+#img1 {
+    resize: both;
+    width: 700px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+
+
+.text {
+    font-size: 15px;
+    font-weight: 10px;
+    width: 220px;
+    line-height: 20px;
+    color:white;
+}
+
+
+
+.vac {
+    text-decoration: underline;
+}
+
+
+
+.mode {
+    font-size: 30px;
+    font-weight:50px;
+    line-height: 80px;
+    color: white;
+}
+
+
+
+.sec  {
+    width: 40px;
+    height: 40px;
+    
+}
+
+
+
+.second-pic {
+    background-color:black;
+    width: 250px;
+    padding: 20px;
+    position: absolute;
+    left: 800px;
+    bottom:80px;
+    
+}
+
+
+
+.flex-box {
+    display: flex;
+}
+
+
+
+.webber {
+    font-size: 20px;
+    color: white;
+}
+
+
+
+.aliza {
+    font-size: 15px;
+    color: white;
+    width: 120px;
+}
+
+
+
+.dom {
+    margin-top: 200px;
+    padding-left: 30px;
+}
+
+
+
+
+.bolt {
+    display: flex;
+}
+
+
+
+
+.read {
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 10px;
+    color: white;
+    line-height: 30px;
+}
+
+
+
+
+.footy {
+    color: white;
+    margin-top: 80px;
+    text-align: center;
+}
